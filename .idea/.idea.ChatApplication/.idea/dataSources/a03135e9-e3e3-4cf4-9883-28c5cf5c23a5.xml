@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="PayAPI@payapidb.ccicrq5pqrv1.eu-central-1.rds.amazonaws.com">
+  <database-model serializer="dbm" rdbms="MSSQL" format-version="4.2">
+    <root id="1"/>
+    <database id="2" parent="1" name="PayAPI">
+      <ObjectId>6</ObjectId>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </database>
+    <database id="3" parent="1" name="master">
+      <ObjectId>1</ObjectId>
+    </database>
+    <database id="4" parent="1" name="tempdb">
+      <ObjectId>2</ObjectId>
+    </database>
+    <database id="5" parent="1" name="model">
+      <ObjectId>3</ObjectId>
+    </database>
+    <database id="6" parent="1" name="msdb">
+      <ObjectId>4</ObjectId>
+    </database>
+    <database id="7" parent="1" name="rdsadmin">
+      <ObjectId>5</ObjectId>
+    </database>
+    <schema id="8" parent="2" name="dbo">
+      <ObjectId>1</ObjectId>
+      <IntrospectionTimestamp>2017-12-12.07:53:08.270</IntrospectionTimestamp>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="9" parent="2" name="guest">
+      <ObjectId>2</ObjectId>
+    </schema>
+    <schema id="10" parent="2" name="INFORMATION_SCHEMA">
+      <ObjectId>3</ObjectId>
+    </schema>
+    <schema id="11" parent="2" name="sys">
+      <ObjectId>4</ObjectId>
+    </schema>
+    <schema id="12" parent="2" name="db_owner">
+      <ObjectId>16384</ObjectId>
+    </schema>
+    <schema id="13" parent="2" name="db_accessadmin">
+      <ObjectId>16385</ObjectId>
+    </schema>
+    <schema id="14" parent="2" name="db_securityadmin">
+      <ObjectId>16386</ObjectId>
+    </schema>
+    <schema id="15" parent="2" name="db_ddladmin">
+      <ObjectId>16387</ObjectId>
+    </schema>
+    <schema id="16" parent="2" name="db_backupoperator">
+      <ObjectId>16389</ObjectId>
+    </schema>
+    <schema id="17" parent="2" name="db_datareader">
+      <ObjectId>16390</ObjectId>
+    </schema>
+    <schema id="18" parent="2" name="db_datawriter">
+      <ObjectId>16391</ObjectId>
+    </schema>
+    <schema id="19" parent="2" name="db_denydatareader">
+      <ObjectId>16392</ObjectId>
+    </schema>
+    <schema id="20" parent="2" name="db_denydatawriter">
+      <ObjectId>16393</ObjectId>
+    </schema>
+    <table id="21" parent="8" name="Activations">
+      <ObjectId>1218103380</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.483</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.497</ModifiedTimestamp>
+    </table>
+    <table id="22" parent="8" name="Cards">
+      <ObjectId>786101841</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.233</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.490</ModifiedTimestamp>
+    </table>
+    <table id="23" parent="8" name="Devices">
+      <ObjectId>818101955</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.237</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.490</ModifiedTimestamp>
+    </table>
+    <table id="24" parent="8" name="Logs">
+      <ObjectId>1106102981</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.373</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.373</ModifiedTimestamp>
+    </table>
+    <table id="25" parent="8" name="Tokens">
+      <ObjectId>1026102696</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.323</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.433</ModifiedTimestamp>
+    </table>
+    <table id="26" parent="8" name="Transactions">
+      <ObjectId>882102183</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.243</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.337</ModifiedTimestamp>
+    </table>
+    <table id="27" parent="8" name="Users">
+      <ObjectId>850102069</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.243</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.383</ModifiedTimestamp>
+    </table>
+    <table id="28" parent="8" name="__MigrationHistory">
+      <ObjectId>994102582</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.260</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.260</ModifiedTimestamp>
+    </table>
+    <column id="29" parent="21" name="id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="30" parent="21" name="isActive">
+      <Position>2</Position>
+      <DataType>bit|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="31" parent="21" name="Card_Id">
+      <Position>3</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <column id="32" parent="21" name="Device_Id">
+      <Position>4</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <index id="33" parent="21" name="PK_dbo.Activations">
+      <Position>1</Position>
+      <ColNames>id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <index id="34" parent="21" name="IX_Card_Id">
+      <Position>2</Position>
+      <ColNames>Card_Id</ColNames>
+    </index>
+    <index id="35" parent="21" name="IX_Device_Id">
+      <Position>3</Position>
+      <ColNames>Device_Id</ColNames>
+    </index>
+    <key id="36" parent="21" name="PK_dbo.Activations">
+      <ObjectId>1234103437</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.483</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.483</ModifiedTimestamp>
+      <ColNames>id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Activations</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="37" parent="21" name="FK_dbo.Activations_dbo.Cards_Card_Id">
+      <ObjectId>1250103494</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.490</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.490</ModifiedTimestamp>
+      <ColNames>Card_Id</ColNames>
+      <RefTableName>Cards</RefTableName>
+      <RefKeyName>PK_dbo.Cards</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <foreign-key id="38" parent="21" name="FK_dbo.Activations_dbo.Devices_Device_Id">
+      <ObjectId>1266103551</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.490</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.490</ModifiedTimestamp>
+      <ColNames>Device_Id</ColNames>
+      <RefTableName>Devices</RefTableName>
+      <RefKeyName>PK_dbo.Devices</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <column id="39" parent="22" name="Id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="40" parent="22" name="CardId">
+      <Position>2</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <column id="41" parent="22" name="CVV">
+      <Position>3</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="42" parent="22" name="Balance">
+      <Position>4</Position>
+      <DataType>decimal(18,2)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="43" parent="22" name="Owner_Id">
+      <Position>5</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <column id="44" parent="22" name="connected">
+      <Position>6</Position>
+      <DataType>bit|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>0</DefaultExpression>
+    </column>
+    <column id="45" parent="22" name="AuthorizationCode">
+      <Position>7</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>0</DefaultExpression>
+    </column>
+    <index id="46" parent="22" name="PK_dbo.Cards">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <index id="47" parent="22" name="IX_Owner_Id">
+      <Position>2</Position>
+      <ColNames>Owner_Id</ColNames>
+    </index>
+    <key id="48" parent="22" name="PK_dbo.Cards">
+      <ObjectId>802101898</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.233</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.233</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Cards</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="49" parent="22" name="FK_dbo.Cards_dbo.Users_Owner_Id">
+      <ObjectId>914102297</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.250</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.250</ModifiedTimestamp>
+      <ColNames>Owner_Id</ColNames>
+      <RefTableName>Users</RefTableName>
+      <RefKeyName>PK_dbo.Users</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <column id="50" parent="23" name="Id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="51" parent="23" name="DeviceHash">
+      <Position>2</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <column id="52" parent="23" name="Name">
+      <Position>3</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <column id="53" parent="23" name="Owner_Id">
+      <Position>4</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <column id="54" parent="23" name="WrongInputCount">
+      <Position>6</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>0</DefaultExpression>
+    </column>
+    <column id="55" parent="23" name="BannedUntil">
+      <Position>7</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>&apos;1900-01-01T00:00:00.000&apos;</DefaultExpression>
+    </column>
+    <index id="56" parent="23" name="PK_dbo.Devices">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <index id="57" parent="23" name="IX_Owner_Id">
+      <Position>2</Position>
+      <ColNames>Owner_Id</ColNames>
+    </index>
+    <key id="58" parent="23" name="PK_dbo.Devices">
+      <ObjectId>834102012</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.237</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.237</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Devices</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="59" parent="23" name="FK_dbo.Devices_dbo.Users_Owner_Id">
+      <ObjectId>930102354</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.250</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.250</ModifiedTimestamp>
+      <ColNames>Owner_Id</ColNames>
+      <RefTableName>Users</RefTableName>
+      <RefKeyName>PK_dbo.Users</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <column id="60" parent="24" name="Id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="61" parent="24" name="Exception">
+      <Position>2</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <column id="62" parent="24" name="BrokenAt">
+      <Position>3</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="63" parent="24" name="PK_dbo.Logs">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <key id="64" parent="24" name="PK_dbo.Logs">
+      <ObjectId>1122103038</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.373</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.373</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Logs</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="65" parent="25" name="Id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="66" parent="25" name="Value">
+      <Position>2</Position>
+      <DataType>uniqueidentifier|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="67" parent="25" name="Used">
+      <Position>4</Position>
+      <DataType>bit|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="68" parent="25" name="RelatedDevice_Id">
+      <Position>5</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <column id="69" parent="25" name="ExpiredDate">
+      <Position>6</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>&apos;1900-01-01T00:00:00.000&apos;</DefaultExpression>
+    </column>
+    <column id="70" parent="25" name="RelatedCard_Id">
+      <Position>7</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <index id="71" parent="25" name="PK_dbo.Tokens">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <index id="72" parent="25" name="IX_RelatedDevice_Id">
+      <Position>2</Position>
+      <ColNames>RelatedDevice_Id</ColNames>
+    </index>
+    <index id="73" parent="25" name="IX_RelatedCard_Id">
+      <Position>3</Position>
+      <ColNames>RelatedCard_Id</ColNames>
+    </index>
+    <key id="74" parent="25" name="PK_dbo.Tokens">
+      <ObjectId>1042102753</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.323</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.323</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Tokens</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="75" parent="25" name="FK_dbo.Tokens_dbo.Devices_Owner_Id">
+      <ObjectId>1090102924</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.333</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.333</ModifiedTimestamp>
+      <ColNames>RelatedDevice_Id</ColNames>
+      <RefTableName>Devices</RefTableName>
+      <RefKeyName>PK_dbo.Devices</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <foreign-key id="76" parent="25" name="FK_dbo.Tokens_dbo.Cards_RelatedCard_Id">
+      <ObjectId>1202103323</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.420</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.420</ModifiedTimestamp>
+      <ColNames>RelatedCard_Id</ColNames>
+      <RefTableName>Cards</RefTableName>
+      <RefKeyName>PK_dbo.Cards</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <column id="77" parent="26" name="Id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="78" parent="26" name="Requseted">
+      <Position>2</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="79" parent="26" name="Executed">
+      <Position>3</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="80" parent="26" name="amount">
+      <Position>4</Position>
+      <DataType>decimal(18,2)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="81" parent="26" name="from_Id">
+      <Position>5</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <column id="82" parent="26" name="to_Id">
+      <Position>6</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <column id="83" parent="26" name="UseDevice_Id">
+      <Position>7</Position>
+      <DataType>int|0</DataType>
+    </column>
+    <index id="84" parent="26" name="PK_dbo.Transactions">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <index id="85" parent="26" name="IX_from_Id">
+      <Position>2</Position>
+      <ColNames>from_Id</ColNames>
+    </index>
+    <index id="86" parent="26" name="IX_to_Id">
+      <Position>3</Position>
+      <ColNames>to_Id</ColNames>
+    </index>
+    <index id="87" parent="26" name="IX_UseDevice_Id">
+      <Position>4</Position>
+      <ColNames>UseDevice_Id</ColNames>
+    </index>
+    <key id="88" parent="26" name="PK_dbo.Transactions">
+      <ObjectId>898102240</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.247</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.247</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Transactions</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="89" parent="26" name="FK_dbo.Transactions_dbo.Devices_from_Id">
+      <ObjectId>962102468</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.257</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.257</ModifiedTimestamp>
+      <ColNames>from_Id</ColNames>
+      <RefTableName>Devices</RefTableName>
+      <RefKeyName>PK_dbo.Devices</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <foreign-key id="90" parent="26" name="FK_dbo.Transactions_dbo.Users_to_Id">
+      <ObjectId>978102525</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.257</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.257</ModifiedTimestamp>
+      <ColNames>to_Id</ColNames>
+      <RefTableName>Users</RefTableName>
+      <RefKeyName>PK_dbo.Users</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <foreign-key id="91" parent="26" name="FK_dbo.Transactions_dbo.Devices_UseDevice_Id">
+      <ObjectId>1074102867</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.333</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.333</ModifiedTimestamp>
+      <ColNames>UseDevice_Id</ColNames>
+      <RefTableName>Devices</RefTableName>
+      <RefKeyName>PK_dbo.Devices</RefKeyName>
+      <RefColNames>Id</RefColNames>
+    </foreign-key>
+    <column id="92" parent="27" name="Id">
+      <Position>1</Position>
+      <DataType>int|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="93" parent="27" name="Name">
+      <Position>2</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <column id="94" parent="27" name="email">
+      <Position>3</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <column id="95" parent="27" name="phone">
+      <Position>4</Position>
+      <DataType>nvarchar(max)|0</DataType>
+    </column>
+    <index id="96" parent="27" name="PK_dbo.Users">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <key id="97" parent="27" name="PK_dbo.Users">
+      <ObjectId>866102126</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.243</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.243</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Users</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="98" parent="28" name="MigrationId">
+      <Position>1</Position>
+      <DataType>nvarchar(150)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="99" parent="28" name="ContextKey">
+      <Position>2</Position>
+      <DataType>nvarchar(300)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="100" parent="28" name="Model">
+      <Position>3</Position>
+      <DataType>varbinary|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="101" parent="28" name="ProductVersion">
+      <Position>4</Position>
+      <DataType>nvarchar(32)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="102" parent="28" name="PK_dbo.__MigrationHistory">
+      <Position>1</Position>
+      <ColNames>MigrationId
+ContextKey</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <key id="103" parent="28" name="PK_dbo.__MigrationHistory">
+      <ObjectId>1010102639</ObjectId>
+      <CreatedTimestamp>2017-12-12.07:52:49.260</CreatedTimestamp>
+      <ModifiedTimestamp>2017-12-12.07:52:49.260</ModifiedTimestamp>
+      <ColNames>MigrationId
+ContextKey</ColNames>
+      <UnderlyingIndexName>PK_dbo.__MigrationHistory</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PayAPI@payapidb.ccicrq5pqrv1.eu-central-1.rds.amazonaws.com" uuid="a03135e9-e3e3-4cf4-9883-28c5cf5c23a5">
+      <database-info product="Microsoft SQL Server" version="10.50.2789" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.0 for SQL Server" driver-version="6.0.8112.100">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>PayAPI:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>

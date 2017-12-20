@@ -1,0 +1,14 @@
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\bin\Debug\MimeTypes.config
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\bin\Debug\WebSockets.dll
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\bin\Debug\WebSockets.pdb
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.csproj.CoreCompileInputs.cache
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.dll
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.pdb
+C:\Users\keipa\Desktop\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.csprojResolveAssemblyReference.cache
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\bin\Debug\MimeTypes.config
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\bin\Debug\WebSockets.dll
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\bin\Debug\WebSockets.pdb
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.csprojResolveAssemblyReference.cache
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.csproj.CoreCompileInputs.cache
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.dll
+C:\Users\keipa\Desktop\labs\bsuir-labs\7cem\Content_Protection_Methods\ChatApplication\WebSockets\obj\Debug\WebSockets.pdb

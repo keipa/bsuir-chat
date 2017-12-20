@@ -1,0 +1,22 @@
+﻿<Window x:Class="WebSocketsClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebSocketsClient"
+        mc:Ignorable="d"
+        Title="WebSockets Chat" Height="302.256" Width="778.557">
+    <Grid>
+        <Button Content="Send" HorizontalAlignment="Left" Margin="226,237,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Height="22"/>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="600,9,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_1" Height="27"/>
+        <TextBox x:Name="portRecieve"  HorizontalAlignment="Left" Height="27" Margin="310,10,0,0" TextWrapping="Wrap" Text="80" VerticalAlignment="Top" Width="41" VerticalContentAlignment="Center"/>
+        <Label Content="to" HorizontalAlignment="Left" Margin="356,10,0,0" VerticalAlignment="Top" Height="27"/>
+        <TextBox x:Name="portSend"  HorizontalAlignment="Left" Height="27" Margin="377,10,0,0" TextWrapping="Wrap" Text="80" VerticalAlignment="Top" Width="41" VerticalContentAlignment="Center"/>
+        <ListBox x:Name="DebugList" HorizontalAlignment="Left" Height="217" Margin="306,42,0,0" VerticalAlignment="Top" Width="454" FontSize="10" Background="#FF454545" Foreground="#FF5DFF00"/>
+        <ListBox x:Name="ChatList" HorizontalAlignment="Left" Height="224" Margin="6,10,0,0" VerticalAlignment="Top" Width="295"/>
+        <TextBox x:Name="Message" HorizontalAlignment="Left" Height="22" Margin="6,237,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="215"/>
+        <ComboBox x:Name="algorythmBox" HorizontalAlignment="Left" Margin="475,10,0,0" VerticalAlignment="Top" Width="120" Height="26"/>
+        <Label Content="using" HorizontalAlignment="Left" Margin="431,10,0,0" VerticalAlignment="Top" Height="27"/>
+
+    </Grid>
+</Window>

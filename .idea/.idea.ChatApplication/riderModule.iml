@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../DES" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../WebAPI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../WebSockets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../WebSocketsClient" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../DES/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../DES/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WebAPI/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WebAPI/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WebSockets/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WebSockets/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WebSocketsClient/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../WebSocketsClient/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

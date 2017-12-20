@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1f8b7ae-61e4-433e-866d-c83b9f97d35b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PayAPI@payapidb.ccicrq5pqrv1.eu-central-1.rds.amazonaws.com" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PayAPI@payapidb.ccicrq5pqrv1.eu-central-1.rds.amazonaws.com" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PayAPI" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="dbo" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="RSAController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/RSAController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1512392989653" expanded="true" signature="6:115" ph="..." />
+                <marker date="1512392989653" expanded="true" signature="145:925" ph="{...}" />
+                <marker date="1512392989653" expanded="true" signature="223:919" ph="{...}" />
+                <marker date="1512392989653" expanded="true" signature="407:491" ph="{...}" />
+                <marker date="1512392989653" expanded="true" signature="641:911" ph="{...}" />
+                <marker date="1512392989653" expanded="true" signature="716:816" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Cards" pinned="false" current-in-tab="true">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Cards">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Activations" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Activations">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Tokens" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Tokens">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Logs" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Logs">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Devices" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Devices">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Users" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Users">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayAPI.dbo.Transactions" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Transactions">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurvesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/CurvesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <marker date="1512392989627" expanded="true" signature="6:137" ph="..." />
+                <marker date="1512392989627" expanded="true" signature="168:940" ph="{...}" />
+                <marker date="1512392989627" expanded="true" signature="250:937" ph="{...}" />
+                <marker date="1512392989627" expanded="true" signature="424:509" ph="{...}" />
+                <marker date="1512392989627" expanded="true" signature="659:931" ph="{...}" />
+                <marker date="1512392989627" expanded="true" signature="734:834" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hel</find>
+      <find>print</find>
+      <find>ciphertext</find>
+      <find>enc</find>
+      <find>Curve25519XSalsa20Poly1305</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>encryptedString</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="keipa &lt;nichogaus@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/AES/AES.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DES/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/DES.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/IEncryption.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Dictionaries/Dictionary.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/Helper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/DESClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/Server/ChatWebSocketService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/DES3K2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/AESController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/Server/ServiceFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/RSAController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/Client/ChatWebSocketClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/DES3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/CustomConsoleTraceListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/CaesarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/DES3Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/TestClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/DefaultController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/DESController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/Curves.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/CurvesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/GOST28147Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebSocketsClient/WebSocketLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Controllers/DES3K2Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebAPI/Encrypt/RSA/RSA.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/DES/DES3K2.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/GOST28147Controller.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/DESController.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/DES3K2Controller.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/DES3Controller.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/DefaultController.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/CaesarController.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/DES/DES.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/DES/DES3.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/DESClass.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/Helper.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Program.cs" />
+        <option value="$PROJECT_DIR$/WebSocketsClient/TestClient.cs" />
+        <option value="$PROJECT_DIR$/WebSocketsClient/CustomConsoleTraceListener.cs" />
+        <option value="$PROJECT_DIR$/WebSocketsClient/Server/ChatWebSocketService.cs" />
+        <option value="$PROJECT_DIR$/WebSocketsClient/Server/ServiceFactory.cs" />
+        <option value="$PROJECT_DIR$/WebSocketsClient/Client/ChatWebSocketClient.cs" />
+        <option value="$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/AES.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/AESController.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/CurvesController.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Controllers/RSAController.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/CurvesCore" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/RSA/RSA.cs" />
+        <option value="$PROJECT_DIR$/WebAPI/Encrypt/Curves.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
+    <option name="y" value="47" />
+    <option name="width" value="3866" />
+    <option name="height" value="2126" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocketsClient" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocketsClient" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainWindow.xaml" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAPI" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAPI" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Encrypt" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAPI" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Encrypt" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RSA" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatApplication (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebAPI" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="keymap&#9;ACTION&#9;ChangeKeymap&#10;ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;wrap&#9;ACTION&#9;EditorToggleUseSoftWraps&#10;nuget res&#9;ACTION&#9;RiderNuGetRestoreAction&#10;nuget &#9;ACTION&#9;RiderNuGetRestoreAction" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.WebSocketsClient">
+    <configuration default="false" name="WebAPI" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebAPI/WebAPI.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v1.1" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WebAPI/bin/Debug/netcoreapp1.1/WebAPI.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebSocketsClient" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebSocketsClient/WebSocketsClient.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WebSocketsClient/bin/Debug/WebSocketsClient.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebSocketsClient/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.WebAPI" />
+      <item index="2" class="java.lang.String" itemvalue=".NET Project.WebSocketsClient" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.WebSocketsClient" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.WebAPI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="47" width="3866" height="2126" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950392" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950392" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950392" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15565032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950392" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3574094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7.mzi.aes-rsa removed comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.mzi.aes-rsa removed comments" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Client/ChatWebSocketClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507210146984" expanded="false" signature="6:68" ph="..." />
+            <marker date="1507210146984" expanded="true" signature="103:468" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="153:466" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="257:290" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="329:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <marker date="1511956548549" expanded="false" signature="6:145" ph="..." />
+            <marker date="1511956548549" expanded="true" signature="174:2772" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="222:2770" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="339:1202" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1240:1436" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1504:2366" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1544:1651" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2105:2176" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2437:2568" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2709:2764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/Helper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <marker date="1507210147356" expanded="false" signature="6:58" ph="..." />
+            <marker date="1507210147356" expanded="true" signature="79:4459" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="105:4457" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="242:308" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="416:483" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="545:1232" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="849:1195" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="892:1014" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1078:1181" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1285:1505" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1375:1466" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1563:1834" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1683:1782" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1893:2156" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2020:2115" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2221:2498" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2333:2408" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2569:3106" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2721:3031" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2924:3013" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3180:3625" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3313:3586" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3365:3451" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3472:3572" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3690:3985" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3849:3949" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="4057:4173" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="4239:4451" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="4333:4402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding>
+            <marker date="1507210147097" expanded="true" signature="6:52" ph="..." />
+            <marker date="1507210147097" expanded="true" signature="70:486" ph="{...}" />
+            <marker date="1507210147097" expanded="true" signature="97:484" ph="{...}" />
+            <marker date="1507210147097" expanded="true" signature="150:478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/TestClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <marker date="1507210147239" expanded="true" signature="6:270" ph="..." />
+            <marker date="1507210147239" expanded="true" signature="298:3972" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="328:3970" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="545:965" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="624:716" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1041:1126" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1183:1317" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1363:2203" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1390:2072" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1936:2058" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2104:2193" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2266:3066" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2292:2836" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2426:2730" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2869:3056" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="3140:3318" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="3399:3648" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="3731:3957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/WebSocketLogger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1505308336358" expanded="true" signature="6:95" ph="..." />
+            <marker date="1505308336358" expanded="true" signature="179:1239" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="341:434" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="475:581" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="662:833" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="910:973" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="1048:1111" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="1170:1233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/CustomConsoleTraceListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1507210147280" expanded="true" signature="6:63" ph="..." />
+            <marker date="1507210147280" expanded="true" signature="91:2221" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="153:2219" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="313:1745" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="1118:1735" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="1879:1989" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="2045:2105" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="2157:2213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Server/ChatWebSocketService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507552767779" expanded="false" signature="6:120" ph="..." />
+            <marker date="1507552767779" expanded="true" signature="155:1277" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="216:1275" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="446:496" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="554:1269" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="1057:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Server/ServiceFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <marker date="1507210147159" expanded="true" signature="6:121" ph="..." />
+            <marker date="1507210147159" expanded="true" signature="156:2000" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="210:1998" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="346:639" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="440:501" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="711:1129" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="880:994" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1011:1119" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1206:1992" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1270:1878" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1390:1581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Client/ChatWebSocketClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507210146984" expanded="false" signature="6:68" ph="..." />
+            <marker date="1507210146984" expanded="true" signature="103:468" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="153:466" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="257:290" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="329:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="80" lean-forward="false" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+          <folding>
+            <marker date="1511956548549" expanded="false" signature="6:145" ph="..." />
+            <marker date="1511956548549" expanded="true" signature="174:2772" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="222:2770" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="339:1202" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1240:1436" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1504:2366" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1544:1651" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2105:2176" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2437:2568" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2709:2764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DES/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="159" column="17" lean-forward="false" selection-start-line="136" selection-start-column="15" selection-end-line="159" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/GOST28147Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/DES3K2Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/DES3Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/DefaultController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/DES3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/DES3K2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/DES.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Dictionaries/Dictionary.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/DESClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/WebSocketLogger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1505308336358" expanded="true" signature="6:95" ph="..." />
+            <marker date="1505308336358" expanded="true" signature="179:1239" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="341:434" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="475:581" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="662:833" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="910:973" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="1048:1111" ph="{...}" />
+            <marker date="1505308336358" expanded="true" signature="1170:1233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/CustomConsoleTraceListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1507210147280" expanded="true" signature="6:63" ph="..." />
+            <marker date="1507210147280" expanded="true" signature="91:2221" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="153:2219" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="313:1745" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="1118:1735" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="1879:1989" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="2045:2105" ph="{...}" />
+            <marker date="1507210147280" expanded="true" signature="2157:2213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Server/ChatWebSocketService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507552767779" expanded="false" signature="6:120" ph="..." />
+            <marker date="1507552767779" expanded="true" signature="155:1277" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="216:1275" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="446:496" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="554:1269" ph="{...}" />
+            <marker date="1507552767779" expanded="true" signature="1057:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Server/ServiceFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <marker date="1507210147159" expanded="true" signature="6:121" ph="..." />
+            <marker date="1507210147159" expanded="true" signature="156:2000" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="210:1998" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="346:639" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="440:501" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="711:1129" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="880:994" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1011:1119" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1206:1992" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1270:1878" ph="{...}" />
+            <marker date="1507210147159" expanded="true" signature="1390:1581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/Client/ChatWebSocketClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507210146984" expanded="false" signature="6:68" ph="..." />
+            <marker date="1507210146984" expanded="true" signature="103:468" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="153:466" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="257:290" ph="{...}" />
+            <marker date="1507210146984" expanded="true" signature="329:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/DES/Model/Helper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1507210147356" expanded="false" signature="6:58" ph="..." />
+            <marker date="1507210147356" expanded="true" signature="79:4459" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="105:4457" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="242:308" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="416:483" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="545:1232" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="849:1195" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="892:1014" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1078:1181" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1285:1505" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1375:1466" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1563:1834" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1683:1782" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="1893:2156" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2020:2115" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2221:2498" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2333:2408" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2569:3106" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2721:3031" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="2924:3013" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3180:3625" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3313:3586" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3365:3451" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3472:3572" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3690:3985" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="3849:3949" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="4057:4173" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="4239:4451" ph="{...}" />
+            <marker date="1507210147356" expanded="true" signature="4333:4402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/DESController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <marker date="1512218522329" expanded="true" signature="6:98" ph="..." />
+            <marker date="1512218522329" expanded="true" signature="128:1123" ph="{...}" />
+            <marker date="1512218522329" expanded="true" signature="206:1115" ph="{...}" />
+            <marker date="1512218522329" expanded="true" signature="404:542" ph="{...}" />
+            <marker date="1512218522329" expanded="true" signature="603:687" ph="{...}" />
+            <marker date="1512218522329" expanded="true" signature="837:1107" ph="{...}" />
+            <marker date="1512218522329" expanded="true" signature="912:1012" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding>
+            <marker date="1507210147097" expanded="true" signature="6:52" ph="..." />
+            <marker date="1507210147097" expanded="true" signature="70:486" ph="{...}" />
+            <marker date="1507210147097" expanded="true" signature="97:484" ph="{...}" />
+            <marker date="1507210147097" expanded="true" signature="150:478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/IEncryption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505289721503" expanded="false" signature="6:96" ph="..." />
+            <marker date="1505289721503" expanded="true" signature="122:319" ph="{...}" />
+            <marker date="1505289721503" expanded="true" signature="150:256" ph="{...}" />
+            <marker date="1505289721503" expanded="true" signature="281:317" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/CaesarController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <marker date="1507209870658" expanded="true" signature="6:120" ph="..." />
+            <marker date="1507209870658" expanded="true" signature="150:1179" ph="{...}" />
+            <marker date="1507209870658" expanded="true" signature="231:1177" ph="{...}" />
+            <marker date="1507209870658" expanded="true" signature="445:589" ph="{...}" />
+            <marker date="1507209870658" expanded="true" signature="650:737" ph="{...}" />
+            <marker date="1507209870658" expanded="true" signature="887:1161" ph="{...}" />
+            <marker date="1507209870658" expanded="true" signature="962:1063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/AES/AES.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="432" column="54" lean-forward="false" selection-start-line="432" selection-start-column="54" selection-end-line="432" selection-end-column="54" />
+          <folding>
+            <marker date="1512390445327" expanded="true" signature="6:30" ph="..." />
+            <marker date="1512390445327" expanded="true" signature="56:22046" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="79:22044" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="122:184" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="214:267" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="448:2186" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="2230:3968" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="3983:4109" ph="/* --- Key Expansion --- ... */" />
+            <marker date="1512390445327" expanded="true" signature="4167:4435" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="4569:4644" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="4696:5114" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="4835:5073" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="5189:5377" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="5522:7447" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="5692:6301" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="6441:6535" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="6629:7397" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="6763:6858" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="6883:7027" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="7110:7379" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="7512:7731" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="7798:8037" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="7886:7995" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="8113:8394" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="8162:8379" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="8470:8664" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="8738:9098" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="8919:9054" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="9158:9489" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="9332:9449" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="9560:9742" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="9821:9937" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="10009:10262" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="10067:10248" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="10340:10654" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="10713:11075" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="10819:11061" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="11137:11499" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="11243:11485" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="11578:11736" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="11790:12211" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="11876:12171" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="12265:12714" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="12771:13304" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="13394:13648" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="13728:13849" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="13935:14773" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="14010:14401" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="14506:14759" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="14859:15738" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="14934:15325" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="15438:15724" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="15893:17503" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="15945:16131" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="16648:17450" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="16700:17432" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="17658:19550" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="17710:17896" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="18389:19303" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="18441:19285" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="19664:20463" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="19935:20423" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="19990:20405" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="20567:20807" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="20896:22033" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="21163:21652" ph="{...}" />
+            <marker date="1512390445327" expanded="true" signature="21685:21993" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/TestClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1101">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <marker date="1507210147239" expanded="true" signature="6:270" ph="..." />
+            <marker date="1507210147239" expanded="true" signature="298:3972" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="328:3970" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="545:965" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="624:716" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1041:1126" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1183:1317" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1363:2203" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1390:2072" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="1936:2058" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2104:2193" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2266:3066" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2292:2836" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2426:2730" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="2869:3056" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="3140:3318" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="3399:3648" ph="{...}" />
+            <marker date="1507210147239" expanded="true" signature="3731:3957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocketsClient/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="24" column="79" lean-forward="false" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+          <folding>
+            <marker date="1511956548549" expanded="false" signature="6:145" ph="..." />
+            <marker date="1511956548549" expanded="true" signature="174:2772" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="222:2770" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="339:1202" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1240:1436" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1504:2366" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="1544:1651" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2105:2176" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2437:2568" ph="{...}" />
+            <marker date="1511956548549" expanded="true" signature="2709:2764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/CurvesCore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/RSA/RSA.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="998" column="13" lean-forward="false" selection-start-line="998" selection-start-column="13" selection-end-line="998" selection-end-column="13" />
+          <folding>
+            <marker date="1512407411122" expanded="true" signature="6:115" ph="..." />
+            <marker date="1512407411122" expanded="true" signature="145:91563" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="164:662" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="358:478" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="527:647" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="691:91561" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="798:2455" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="2652:2740" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="2781:3708" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="2952:3103" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="3173:3366" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="3436:3632" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="3750:4272" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="3887:4038" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="4317:4506" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="4559:6311" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="4869:5648" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="5353:5634" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="5705:5892" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="5931:6117" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="6355:7469" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="6795:6972" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="7524:8705" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="7965:8142" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="8749:9229" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="9295:9359" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="9424:9488" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="9551:9621" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="9685:9756" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="9834:10957" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="10081:10277" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="10339:10468" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="10840:10919" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="11021:12143" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="11198:11424" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="11528:11686" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="11772:11864" ph="/* overflow if initial value was +ve but ++ caused a sign ... */" />
+            <marker date="1512407411122" expanded="true" signature="12010:12106" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="12222:13596" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="12471:12777" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="12845:13037" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="13479:13558" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="13660:14784" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="13856:14115" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="14411:14503" ph="/* overflow if initial value was -ve but -- caused a sign ... */" />
+            <marker date="1512407411122" expanded="true" signature="14649:14746" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="14913:17917" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="15083:15435" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="15176:15259" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="15338:15421" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="15581:16320" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="15652:16306" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="15834:16178" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="16350:16455" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="16844:17748" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="16955:17656" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="16994:17114" ph="/* handle the special case where multiplication produces ... */" />
+            <marker date="1512407411122" expanded="true" signature="17227:17638" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="17379:17534" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="18041:18208" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="18335:19386" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="18557:19349" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="18808:19043" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="19076:19297" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="19147:19279" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="19509:20273" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="19714:20235" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="19936:20174" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="20342:21448" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="20688:21325" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="20743:20869" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="21029:21272" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="21571:21945" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="22071:23250" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="22094:22186" ph="/* handle neg of zero separately since it'll cause an overflow ... */" />
+            <marker date="1512407411122" expanded="true" signature="22642:22868" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="23368:23424" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="23497:23556" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="23604:23938" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="23793:23903" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="23982:24052" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="24171:24967" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="24789:24931" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="25039:25835" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="25657:25799" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="25908:25974" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="26047:26113" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="26124:26286" ph="/* Private function that supports the division of two numbers with ... */" />
+            <marker date="1512407411122" expanded="true" signature="26456:30310" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="26806:26871" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="26885:27031" ph="/* Console.WriteLine(&quot;shift = {0}&quot;, shift); ... */" />
+            <marker date="1512407411122" expanded="true" signature="27216:27550" ph="/* Console.WriteLine(&quot;bi1 Len = {0}, bi2 Len = {1}&quot;, bi1.dataLength, bi2.dataLength); ... */" />
+            <marker date="1512407411122" expanded="true" signature="27911:29533" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="28351:28780" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="28542:28762" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="29097:29238" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="30484:32484" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="31116:31321" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="31370:31822" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="32607:33620" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="32898:32990" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="33065:33156" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="33184:33245" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="33263:33610" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="33742:34664" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="34016:34108" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="34239:34301" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="34319:34654" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="34790:35318" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="34985:35113" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="35443:35971" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="35638:35766" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="36097:36625" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="36292:36420" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="36706:36862" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="36943:37100" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="37173:37351" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="37464:37517" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="37528:37800" ph="/* Returns a string representing the BigInteger in sign-and-magnitude ... */" />
+            <marker date="1512407411122" expanded="true" signature="37843:39218" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="38194:38377" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="38261:38325" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="38640:39180" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="38736:39093" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="39257:39502" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="39386:39464" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="39602:41698" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="39942:40044" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="40691:41550" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="40850:41536" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="41198:41414" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="41795:44261" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="42601:42670" ph="/* r1 = x mod b^(k+1) ... */" />
+            <marker date="1512407411122" expanded="true" signature="42948:43026" ph="/* r2 = (q3 * n) mod b^(k+1) ... */" />
+            <marker date="1512407411122" expanded="true" signature="43125:43725" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="43324:43629" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="43971:44173" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="44342:44935" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="44801:44902" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="45064:45967" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="45559:45792" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="45978:46378" ph="/* Returns the position of the most significant bit in the BigInteger. ... */" />
+            <marker date="1512407411122" expanded="true" signature="46409:46838" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="46677:46757" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="46894:49077" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="47141:47411" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="47762:49041" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="47861:48362" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="48893:49027" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="49132:52030" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="49379:49649" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="49946:50363" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="50040:50349" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="50116:50274" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="50595:51995" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="50694:51195" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="51620:51909" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="51733:51847" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="52089:54514" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="52336:52606" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="52992:54478" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="53091:53592" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="54136:54390" ph="/* Console.WriteLine(&quot;a = &quot; + a.ToString(10) + &quot; b = &quot; + thisVal.ToString(10)); ... */" />
+            <marker date="1512407411122" expanded="true" signature="54555:55231" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="54802:55072" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="55296:58758" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="55412:56206" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="55598:56166" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="55779:56019" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="56380:56797" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="56474:56783" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="56550:56708" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="56852:56923" ph="/* calculate constant = b^(2k) / m ... */" />
+            <marker date="1512407411122" expanded="true" signature="57435:58047" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="57479:57929" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="58121:58719" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="58269:58705" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="58812:59707" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="59134:59463" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="59379:59449" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="59563:59697" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="59748:62389" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="59995:60265" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="60479:60944" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="60724:60930" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="60763:60877" ph="/* Console.WriteLine(&quot;Not prime!  Divisible by {0}\n&quot;, ... */" />
+            <marker date="1512407411122" expanded="true" signature="60958:61037" ph="/* Perform BASE 2 Rabin-Miller Test ... */" />
+            <marker date="1512407411122" expanded="true" signature="61192:61609" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="61286:61595" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="61362:61520" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="61926:62183" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="62031:62129" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="62490:62543" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="62645:63033" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="62731:62839" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="62869:62998" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="63044:63156" ph="/* Computes the Jacobi Symbol for a and b. ... */" />
+            <marker date="1512407411122" expanded="true" signature="63218:64761" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="63613:63846" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="63933:64340" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="64027:64326" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="64098:64251" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="64919:65298" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="65037:65261" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="65309:65414" ph="/* Generates a random number with the specified number of bits such ... */" />
+            <marker date="1512407411122" expanded="true" signature="65475:65935" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="65593:65897" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="65674:65744" ph="/* Console.WriteLine(result.ToString(16)); ... */" />
+            <marker date="1512407411122" expanded="true" signature="65946:66086" ph="/* Returns the modulo inverse of this.  Throws ArithmeticException if ... */" />
+            <marker date="1512407411122" expanded="true" signature="66144:67944" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="66498:67553" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="66656:66830" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="67038:67349" ph="/* Console.WriteLine(quotient.dataLength); ... */" />
+            <marker date="1512407411122" expanded="true" signature="67955:68057" ph="/* Returns the value of the BigInteger as a byte array.  The lowest ... */" />
+            <marker date="1512407411122" expanded="true" signature="68091:69563" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="68513:68617" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="68678:68782" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="68842:68946" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="69001:69105" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="69173:69525" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="69574:69669" ph="/* Sets the value of the specified bit to 1 ... */" />
+            <marker date="1512407411122" expanded="true" signature="69710:70056" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="70067:70162" ph="/* Sets the value of the specified bit to 0 ... */" />
+            <marker date="1512407411122" expanded="true" signature="70205:70652" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="70299:70642" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="70699:71827" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="71180:71277" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="71380:71790" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="71428:71741" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="71983:73249" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="72046:72232" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="72246:72317" ph="/* calculate constant = b^(2k) / m ... */" />
+            <marker date="1512407411122" expanded="true" signature="72671:73078" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="72765:73064" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="72836:72989" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="73260:73437" ph="/* Performs the calculation of the kth term in the Lucas Sequence. ... */" />
+            <marker date="1512407411122" expanded="true" signature="73690:76756" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="74253:75821" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="74347:75772" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="74545:75106" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="75131:75721" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="75457:75592" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="75835:75972" ph="/* at this point u1 = u(n+1) and v = v(n) ... */" />
+            <marker date="1512407411122" expanded="true" signature="76267:76633" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="76425:76528" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="76884:79423" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="77071:79413" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="77439:77826" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="77506:77808" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="77887:78277" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="77954:78259" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="78655:78757" ph="/* Determine the quotient and remainder by dividing ... */" />
+            <marker date="1512407411122" expanded="true" signature="79020:79399" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="79434:79615" ph="/* Tests the correct implementation of the modulo exponential function ... */" />
+            <marker date="1512407411122" expanded="true" signature="79663:82211" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="80841:82200" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="81087:81474" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="81154:81456" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="81950:82137" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="82222:82485" ph="/* Tests the correct implementation of the modulo exponential and ... */" />
+            <marker date="1512407411122" expanded="true" signature="82534:86827" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="82659:83710" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="83747:84798" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="85078:86816" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="85703:86090" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="85770:86072" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="86566:86753" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="86940:87823" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="87047:87813" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="87569:87750" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="87874:91555" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="87897:88039" ph="/* Known problem -&gt; these two pseudoprimes passes my implementation of ... */" />
+            <marker date="1512407411122" expanded="true" signature="88075:89138" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="89175:90238" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="90402:90777" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="90448:90559" ph="{...}" />
+            <marker date="1512407411122" expanded="true" signature="90653:90763" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Encrypt/Curves.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <marker date="1512407411157" expanded="true" signature="39:1475" ph="{...}" />
+            <marker date="1512407411157" expanded="true" signature="65:1463" ph="{...}" />
+            <marker date="1512407411157" expanded="true" signature="169:350" ph="{...}" />
+            <marker date="1512407411157" expanded="true" signature="646:789" ph="{...}" />
+            <marker date="1512407411157" expanded="true" signature="854:941" ph="{...}" />
+            <marker date="1512407411157" expanded="true" signature="1029:1232" ph="{...}" />
+            <marker date="1512407411157" expanded="true" signature="1292:1457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/AESController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <marker date="1512390445433" expanded="true" signature="6:137" ph="..." />
+            <marker date="1512390445433" expanded="true" signature="167:955" ph="{...}" />
+            <marker date="1512390445433" expanded="true" signature="245:953" ph="{...}" />
+            <marker date="1512390445433" expanded="true" signature="419:503" ph="{...}" />
+            <marker date="1512390445433" expanded="true" signature="653:936" ph="{...}" />
+            <marker date="1512390445433" expanded="true" signature="728:828" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/CurvesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <marker date="1512392989627" expanded="true" signature="6:137" ph="..." />
+            <marker date="1512392989627" expanded="true" signature="168:940" ph="{...}" />
+            <marker date="1512392989627" expanded="true" signature="250:937" ph="{...}" />
+            <marker date="1512392989627" expanded="true" signature="424:509" ph="{...}" />
+            <marker date="1512392989627" expanded="true" signature="659:931" ph="{...}" />
+            <marker date="1512392989627" expanded="true" signature="734:834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAPI/Controllers/RSAController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1512392989653" expanded="true" signature="6:115" ph="..." />
+            <marker date="1512392989653" expanded="true" signature="145:925" ph="{...}" />
+            <marker date="1512392989653" expanded="true" signature="223:919" ph="{...}" />
+            <marker date="1512392989653" expanded="true" signature="407:491" ph="{...}" />
+            <marker date="1512392989653" expanded="true" signature="641:911" ph="{...}" />
+            <marker date="1512392989653" expanded="true" signature="716:816" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Transactions">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Tokens">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Logs">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Devices">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Activations">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Users">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/410fcce1/a03135e9-e3e3-4cf4-9883-28c5cf5c23a5/PayAPI.dbo.Cards">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

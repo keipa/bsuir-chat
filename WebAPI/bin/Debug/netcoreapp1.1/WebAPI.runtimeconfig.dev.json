@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\keipa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\keipa\\.nuget\\packages"
+    ]
+  }
+}
